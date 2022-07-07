@@ -1,6 +1,6 @@
 # PortfolioProject - smallsh
 
-In this assignment you will write smallsh your own shell in C. smallsh will implement a subset of features of well-known shells, such as bash. Your program will:
+'smallsh' is my own version of shell written in C. smallsh implements a subset of features of well-known shells, such as bash. The program will:
 
 1. Provide a prompt for running commands
 2. Handle blank lines and comments, which are lines beginning with the # character,

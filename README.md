@@ -1,4 +1,4 @@
-# PortfolioProject - smallsh
+# smallsh
 
 'smallsh' is my own version of shell written in C. smallsh implements a subset of features of well-known shells, such as bash. The program will:
 
